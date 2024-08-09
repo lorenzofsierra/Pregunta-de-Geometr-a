@@ -1,1 +1,1 @@
-# Pregunta-de-Geometr-a
+# Pregunta-de-Geometría
