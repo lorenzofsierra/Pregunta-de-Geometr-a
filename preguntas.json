@@ -1,0 +1,94 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuántos lados tiene un triángulo?",
+            "opciones": {
+                "a)": "3",
+                "b)": "4",
+                "c)": "5"
+            },
+            "correcta": "a)"
+        },
+        {
+            "pregunta": "¿Cuál es la suma de los ángulos interiores de un cuadrado?",
+            "opciones": {
+                "a)": "180°",
+                "b)": "360°",
+                "c)": "90°"
+            },
+            "correcta": "b)"
+        },
+        {
+            "pregunta": "¿Qué nombre recibe un polígono de cinco lados?",
+            "opciones": {
+                "a)": "Cuadrado",
+                "b)": "Hexágono",
+                "c)": "Pentágono"
+            },
+            "correcta": "c)"
+        },
+        {
+            "pregunta": "¿Qué tipo de ángulo tiene una medida de 90°?",
+            "opciones": {
+                "a)": "Agudo",
+                "b)": "Obtuso",
+                "c)": "Recto"
+            },
+            "correcta": "c)"
+        },
+        {
+            "pregunta": "¿Cuántos vértices tiene un cubo?",
+            "opciones": {
+                "a)": "8",
+                "b)": "6",
+                "c)": "12"
+            },
+            "correcta": "a)"
+        },
+        {
+            "pregunta": "¿Cómo se llama un triángulo con todos sus lados de diferente longitud?",
+            "opciones": {
+                "a)": "Equilátero",
+                "b)": "Isósceles",
+                "c)": "Escaleno"
+            },
+            "correcta": "c)"
+        },
+        {
+            "pregunta": "¿Cuántos lados tiene un hexágono?",
+            "opciones": {
+                "a)": "6",
+                "b)": "5",
+                "c)": "8"
+            },
+            "correcta": "a)"
+        },
+        {
+            "pregunta": "¿Qué figura geométrica tiene solo un lado y es cerrada?",
+            "opciones": {
+                "a)": "Círculo",
+                "b)": "Triángulo",
+                "c)": "Rectángulo"
+            },
+            "correcta": "a)"
+        },
+        {
+            "pregunta": "¿Cuál es el área de un cuadrado de 4 cm de lado?",
+            "opciones": {
+                "a)": "8 cm²",
+                "b)": "16 cm²",
+                "c)": "12 cm²"
+            },
+            "correcta": "b)"
+        },
+        {
+            "pregunta": "¿Cómo se llama el segmento que une el centro de un círculo con cualquier punto en su circunferencia?",
+            "opciones": {
+                "a)": "Radio",
+                "b)": "Diámetro",
+                "c)": "Cuerda"
+            },
+            "correcta": "a)"
+        }
+    ]
+}
